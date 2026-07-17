@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 👋, I'm Sree</h1>
+## Hi 👋, I'm Sree</h1>
 
 <!--
 **sreee301/sreee301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
